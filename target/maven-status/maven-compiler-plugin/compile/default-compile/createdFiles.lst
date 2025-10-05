@@ -1,0 +1,9 @@
+com\example\bot\opinions\OpinionService.class
+com\example\bot\ai\AIService.class
+com\example\bot\App.class
+com\example\bot\service\PipelineService.class
+com\example\bot\state\ConversationStore.class
+com\example\bot\nlp\IntentClassifier.class
+com\chatbot\controller\WebController.class
+com\example\bot\web\ChatController.class
+com\example\bot\knowledge\KnowledgeService.class
